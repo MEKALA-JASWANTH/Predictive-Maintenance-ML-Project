@@ -446,12 +446,12 @@ If you encounter any issues or have questions:
 ---
 
 ## 📸 Screenshots
-<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/9dc3dd48-107f-43a7-9610-0e0e62959b97" />
+
 
 ### Streamlit Web Application
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MEKALA-JASWANTH/Predictive-Maintenance-ML-Project/main/assets/streamlit-app.png" alt="Streamlit App Interface" width="800"/>
+  <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/9dc3dd48-107f-43a7-9610-0e0e62959b97" />
   <p><i>Interactive Streamlit web application for real-time predictions</i></p>
 </div>
 
