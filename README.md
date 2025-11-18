@@ -6,12 +6,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MEKALA-JASWANTH/Predictive-Maintenance-ML-Project/main/assets/banner.png" alt="Project Banner" width="800"/>
-</div>
-
----
-
 ## 📋 Project Overview
 
 This project implements a comprehensive **Predictive Maintenance System** using Machine Learning to predict equipment failures before they occur. The system analyzes sensor data and operational parameters to classify different types of machine failures, enabling proactive maintenance and reducing downtime.
@@ -445,26 +439,6 @@ If you encounter any issues or have questions:
 
 ---
 
-## 📸 Screenshots
-
-
-### Streamlit Web Application
-
-<div align="center">
-  <img width="2872" height="1708" alt="image" src="https://github.com/user-attachments/assets/be22784c-fba6-4dbb-bcc5-b72e99fda494" />
-
-  <p><i>Interactive Streamlit web application for real-time predictions</i></p>
-</div>
-
-
-
----
-
-## ⭐ Show Your Support
-
-If you find this project helpful, please give it a ⭐ star on GitHub!
-
----
 
 **Last Updated**: November 2025
 **Version**: 1.0.0
