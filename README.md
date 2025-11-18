@@ -446,6 +446,7 @@ If you encounter any issues or have questions:
 ---
 
 ## 📸 Screenshots
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/9dc3dd48-107f-43a7-9610-0e0e62959b97" />
 
 ### Streamlit Web Application
 
