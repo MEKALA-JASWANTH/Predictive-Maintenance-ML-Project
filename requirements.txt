@@ -1,0 +1,22 @@
+# Core Data Science Libraries
+pandas
+numpy
+
+# Machine Learning Libraries
+scikit-learn
+imbalanced-learn
+xgboost
+
+# Visualization Libraries
+matplotlib
+seaborn
+
+# Model Persistence
+joblib
+
+# Jupyter Notebook (Optional - for running .ipynb files)
+jupyter
+notebook
+
+# Streamlit (Optional - for web app)
+streamlit
