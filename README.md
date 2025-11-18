@@ -451,16 +451,12 @@ If you encounter any issues or have questions:
 ### Streamlit Web Application
 
 <div align="center">
-  <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/9dc3dd48-107f-43a7-9610-0e0e62959b97" />
+  <img width="2872" height="1708" alt="image" src="https://github.com/user-attachments/assets/be22784c-fba6-4dbb-bcc5-b72e99fda494" />
+
   <p><i>Interactive Streamlit web application for real-time predictions</i></p>
 </div>
 
-### Project Workflow
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MEKALA-JASWANTH/Predictive-Maintenance-ML-Project/main/assets/workflow-diagram.png" alt="ML Pipeline Workflow" width="700"/>
-  <p><i>Complete machine learning pipeline from data to deployment</i></p>
-</div>
 
 ---
 
